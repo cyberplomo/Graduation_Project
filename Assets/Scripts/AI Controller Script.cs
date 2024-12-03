@@ -211,8 +211,14 @@ public class AIControllerScript : MonoBehaviour
 
             if (m_PlayerInRange)
             {
-                m_PlayerPosition = playerInRange.transform.position;
+                m_PlayerPosition = player.position; 
             }
+            
+            //if (m_PlayerInRange)
+            //{
+             //   m_PlayerPosition = playerInRange.transform.position; 
+           // }
+
         }
     }
 }
