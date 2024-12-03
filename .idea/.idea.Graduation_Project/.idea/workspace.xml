@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c58637a3-efa2-4fd5-9dd2-2845a3029f4e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AI Controller Script.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AI Controller Script.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Yigit_deneme/NavMesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Yigit_deneme/NavMesh.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -89,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733251240588</updated>
-      <workItem from="1733251244366" duration="4383000" />
+      <workItem from="1733251244366" duration="4979000" />
     </task>
     <servers />
   </component>
